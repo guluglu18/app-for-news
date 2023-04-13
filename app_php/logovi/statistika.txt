@@ -1,0 +1,10 @@
+29.05.2020 15:49:37 - Korisnik 'Običan Smrtnik' je lajkovao vest 'Otvorena izložba autoportreta Jovane Dragić u Singidunumu'
+29.05.2020 15:49:38 - Korisnik 'Običan Smrtnik' je lajkovao vest 'Otvorena izložba autoportreta Jovane Dragić u Singidunumu'
+29.05.2020 15:49:39 - Korisnik 'Običan Smrtnik' je lajkovao vest 'Otvorena izložba autoportreta Jovane Dragić u Singidunumu'
+29.05.2020 17:03:53 - Korisnik Laza Lazić je dodao vest 'sdasdasd'
+29.05.2020 17:05:39 - Korisnik Laza Lazić je dodao vest 'asdfdfsdf'
+29.05.2020 17:05:45 - Korisnik Laza Lazić je obrisao vest sa id-jem 10
+29.05.2020 17:06:02 - Korisnik Laza Lazić je izmenio vest 'Ovo je sa izmenom za Urednika'
+29.05.2020 17:12:40 - Korisnik 'Пера Перић' je lajkovao vest 'Ovo je sa izmenom za Urednika'
+29.05.2020 17:12:52 - Korisnik Пера Перић je obrisao vest sa id-jem 11
+29.05.2020 17:17:30 - Korisnik Пера Перић je izmenio vest 'Fotografija studentkinje iz Srbije uvršćena u 20 najboljih radova'
